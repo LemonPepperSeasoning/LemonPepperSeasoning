@@ -3,8 +3,8 @@
 
 My Quine in python
 ```
-  q='print("q="+repr(q)+"#im LemonPepperSeasoning!"+"\\neval(q)")'#im LemonPepperSeasoning!
-  eval(q)
+q='print("q="+repr(q)+"#im LemonPepperSeasoning!"+"\\neval(q)")'#im LemonPepperSeasoning!
+eval(q)
 ```
 <br/>
 
