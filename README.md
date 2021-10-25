@@ -1,6 +1,12 @@
 ### Hi :wave: I'm Takahiro - aka LemonPepperSeasoning.
 
-<br />
+
+My Quine in python
+```
+  q='print("q="+repr(q)+"#im LemonPepperSeasoning!"+"\\neval(q)")'#im LemonPepperSeasoning!
+  eval(q)
+```
+<br/>
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
