@@ -2,7 +2,7 @@
 src="https://github.com/LemonPepperSeasoning/LemonPepperSeasoning/raw/main/images/Hi.gif" height="32" /></h1>
 
 <p align="right">
-    <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=LemonPepperSeasoning&color=00df00"/>
+    <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=LemonPepperSeasoning.LemonPepperSeasoning&color=00df00"/>
 </p>
 
 Hi, I'm Takahiro Ishiguro, a Software Engineering student studying at University of Auckland. 
