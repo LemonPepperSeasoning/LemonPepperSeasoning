@@ -9,7 +9,7 @@ Hi, I'm Takahiro Ishiguro, a Software Engineering student studying at University
 I am interested in 
 - Quantitative finance
 - AI Data Science / Deep Learning
-- Block-Chain Technology
+- Cryptocurrency
 
 <br />
 
