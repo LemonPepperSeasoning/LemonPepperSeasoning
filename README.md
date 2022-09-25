@@ -7,10 +7,9 @@ src="https://github.com/LemonPepperSeasoning/LemonPepperSeasoning/raw/main/image
 
 Hi, I'm Takahiro Ishiguro, a Software Engineering student studying at University of Auckland. 
 I am interested in 
-- Quantitative finance
-- AI Data Science / Deep Learning 
 - Intelligent System (siri,alphaZero,self-driving car,etc)
 - Cryptocurrency
+- dumb & useless apps 
 
 <br />
 
