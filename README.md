@@ -1,51 +1,14 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/takahiro-ishiguro-05573919b/" target="_blank">Takahiro</a> <img
-src="https://github.com/LemonPepperSeasoning/LemonPepperSeasoning/raw/main/images/Hi.gif" height="32" /></h1>
+<h3> Hi, I'm Takahiro <img
+src="https://github.com/LemonPepperSeasoning/LemonPepperSeasoning/raw/main/images/Hi.gif" height="32" /> </h3>
 
-<p align="right">
-    <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=LemonPepperSeasoning.LemonPepperSeasoning&color=00df00"/>
-</p>
-
-Hi, I'm Takahiro Ishiguro, a Software Engineering student studying at University of Auckland. 
-I am interested in 
-- Intelligent System (siri,alphaZero,self-driving car,etc)
-- Cryptocurrency
-- dumb & useless apps 
-
-<br />
-
-My Quine in python
-```
-q='print("q="+repr(q)+"#im LemonPepperSeasoning!"+"\\neval(q)")'#im LemonPepperSeasoning!
-eval(q)
-```
-
-<br/>
-
-**Programming Language:**  
-
-<code><img height="40" alt="C" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="40" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" alt="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="40" alt="Html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" alt="Css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-
-**Libraries and Framework:**  
-<code><img height="40" alt="Numpy" src="https://raw.githubusercontent.com/github/explore/d530d6a3a171a53f7b8eb4e9e005136e7ebd898f/topics/numpy/numpy.png"></code>
-<code><img height="40" alt="Scikit-Learn" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
-<code><img height="40" alt="Jupyter-Notebook" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="40" alt="Spark" src="https://raw.githubusercontent.com/github/explore/6f5025830918df26b37d23b3ffffbc35725fe15f/topics/spark/spark.png"></code>
-<code><img height="40" alt="Bash" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="40" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" alt="Firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" alt="Android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="40" alt="AWS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-
-<br />
-<br />
+<p><em>Software Enginner at Indeed.
+</br>
+Currently living in Tokyo, Japan.
+</em></p>
 
 <p align="center">
-    <a href="https://lemonpepperseasoning.github.io/"><img src="https://img.shields.io/badge/-Website-lightgrey?style=flat-square&link=https://lemonpepperseasoning.github.io/" alt="Website"></a>
-	<a href="https://www.linkedin.com/in/takahiro-ishiguro-05573919b/"><img src="https://img.shields.io/badge/-Takahiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/takahiro-ishiguro-05573919b/" alt="LinkedIn"></a>
+    <a href="https://lemonpepperseasoning.github.io/"><img src="https://img.shields.io/badge/website-298D46?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pg0KPCEtLSBVcGxvYWRlZCB0bzogU1ZHIFJlcG8sIHd3dy5zdmdyZXBvLmNvbSwgR2VuZXJhdG9yOiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4NCjxzdmcgZmlsbD0iI0ZGRkZGRiIgaGVpZ2h0PSI4MDBweCIgd2lkdGg9IjgwMHB4IiB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIg0KCSB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8Zz4NCgk8Zz4NCgkJPHBhdGggZD0iTTI1NiwwQzExNC42MiwwLDAsMTE0LjYyLDAsMjU2czExNC42MiwyNTYsMjU2LDI1NnMyNTYtMTE0LjYyLDI1Ni0yNTZTMzk3LjM4LDAsMjU2LDB6IE0xNzIuMjExLDQxLjYwOQ0KCQkJYy0yNC45MzQsMjcuMTE5LTQ0LjY4LDY2LjEyNS01Ni43NTUsMTExLjk5Mkg0OS43NDlDNzUuMTc5LDEwMi43NDEsMTE4Ljg2OSw2Mi41MjQsMTcyLjIxMSw0MS42MDl6IE0yNS42LDI1Ng0KCQkJYzAtMjYuOTk5LDUuMDc3LTUyLjcyNywxMy42NjItNzYuOGg3MC40OTRjLTQuNjA4LDI0LjI5NC03LjM1Niw0OS45NjMtNy4zNTYsNzYuOHMyLjc0OCw1Mi41MDYsNy4zNDcsNzYuOEgzOS4yNjINCgkJCUMzMC42NzcsMzA4LjcyNywyNS42LDI4MywyNS42LDI1NnogTTQ5Ljc0OSwzNTguNGg2NS43MDdjMTIuMDgzLDQ1Ljg2NywzMS44MjEsODQuODcyLDU2Ljc1NSwxMTEuOTkxDQoJCQlDMTE4Ljg2OSw0NDkuNDc2LDc1LjE3OSw0MDkuMjU5LDQ5Ljc0OSwzNTguNHogTTI0My4yLDQ4NS4xODhjLTQzLjgxLTguMjUyLTgxLjg3Ny01OC4yNC0xMDEuMzU5LTEyNi43ODhIMjQzLjJWNDg1LjE4OHoNCgkJCSBNMjQzLjIsMzMyLjhIMTM1Ljc0Yy00LjkyNC0yNC4xNjYtNy43NC00OS45OTctNy43NC03Ni44czIuODE2LTUyLjYzNCw3Ljc0LTc2LjhIMjQzLjJWMzMyLjh6IE0yNDMuMiwxNTMuNkgxNDEuODQxDQoJCQlDMTYxLjMyMyw4NS4wNTIsMTk5LjM5LDM1LjA2MywyNDMuMiwyNi44MTJWMTUzLjZ6IE00NjIuMjUxLDE1My42aC02NS43MDdjLTEyLjA4My00NS44NjctMzEuODIxLTg0Ljg3My01Ni43NTUtMTExLjk5Mg0KCQkJQzM5My4xMzEsNjIuNTI0LDQzNi44MjEsMTAyLjc0MSw0NjIuMjUxLDE1My42eiBNMjY4LjgsMjYuODEyYzQzLjgxLDguMjUyLDgxLjg3Nyw1OC4yNCwxMDEuMzU5LDEyNi43ODhIMjY4LjhWMjYuODEyeg0KCQkJIE0yNjguOCwxNzkuMmgxMDcuNDZjNC45MjQsMjQuMTY2LDcuNzQsNDkuOTk3LDcuNzQsNzYuOHMtMi44MTYsNTIuNjM0LTcuNzQsNzYuOEgyNjguOFYxNzkuMnogTTI2OC44LDQ4NS4xODhWMzU4LjRoMTAxLjM1OQ0KCQkJQzM1MC42NzcsNDI2Ljk0OCwzMTIuNjEsNDc2LjkzNywyNjguOCw0ODUuMTg4eiBNMzM5Ljc4OSw0NzAuMzkxYzI0LjkzNC0yNy4xMjcsNDQuNjcyLTY2LjEyNSw1Ni43NTUtMTExLjk5MWg2NS43MDcNCgkJCUM0MzYuODIxLDQwOS4yNTksMzkzLjEzMSw0NDkuNDc2LDMzOS43ODksNDcwLjM5MXogTTQwMi4yNDQsMzMyLjhjNC42MDgtMjQuMjk0LDcuMzU2LTQ5Ljk2Myw3LjM1Ni03Ni44DQoJCQlzLTIuNzQ4LTUyLjUwNi03LjM0Ny03Ni44aDcwLjQ5NGM4LjU3NiwyNC4wNzMsMTMuNjUzLDQ5LjgwMSwxMy42NTMsNzYuOGMwLDI3LTUuMDc3LDUyLjcyNy0xMy42NjIsNzYuOEg0MDIuMjQ0eiIvPg0KCTwvZz4NCjwvZz4NCjwvc3ZnPg==&logoColor=white&logoColor=white&link=https://lemonpepperseasoning.github.io/" alt="Website"></a>
+    <a href="https://www.linkedin.com/in/takahiro-ishiguro-05573919b/"><img src="https://img.shields.io/badge/-Takahiro-blue?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/takahiro-ishiguro-05573919b/" alt="LinkedIn"></a>
+    <a href="https://twitter.com/dohxjyus"><img src="https://img.shields.io/badge/@dohxjyus-000000?logo=x&logoColor=white" alt="Twitter"></a>
     <a href="https://github.com/LemonPepperSeasoning"><img src="https://img.shields.io/github/followers/LemonPepperSeasoning?label=follow&style=social" alt="Github"></a>
 </p>
