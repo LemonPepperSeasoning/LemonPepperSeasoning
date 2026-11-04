@@ -4,6 +4,8 @@ src="https://github.com/LemonPepperSeasoning/LemonPepperSeasoning/raw/main/image
 <p><em>Software Enginner at Indeed.
 </br>
 Currently living in Tokyo, Japan.
+
+Used to write code. Nowadays i just be vibing. 
 </em></p>
 
 <p align="center">
